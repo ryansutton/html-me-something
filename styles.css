@@ -1,0 +1,51 @@
+body {
+    background-color: blue;
+    border: 2px solid black;
+}
+* {
+    color: white;
+    text-align: center;
+}
+img:first-child {
+    display: block;
+    margin: auto;
+    width: 15;
+}
+
+h1 {
+    margin-left: auto
+    font-size: 3em;
+    font-family: Arial;
+}
+
+#circle {
+    border: 2px solid gray;
+    background-color: gray;
+    border-radius: 100%;
+    margin: auto;
+    width: 10%;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+/*header {
+    border: 2px solid gray;
+    background-color: gray;
+    margin-left: 75px;
+    margin-right: 75px;
+    border-radius: 10px;
+}
+*/
+
+.headings {
+    font-size: 2em;
+}
+
+.employers {
+    font-size: 1.5em;
+}
+
+.job_title {
+    font-size: 1.25em;
+}
